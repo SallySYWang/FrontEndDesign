@@ -3,7 +3,7 @@
   font-family: "Noto Sans";
   font-size: 80px;
   font-weight: 400;
-  /* line-height: 95px; */
+  line-height: 95px;
   /* letter-spacing: 0em; */
   /* text-align: left; */
 }
@@ -22,14 +22,15 @@
   /* border-radius: 0px; */
 }
 .line {
-  border-width: 2px;
+  /* border-width: 2px; */
   border-style: solid;
-  border-color: #000;
+  /* border-color: #000; */
+  /* border: #000; */
   color: #000;
   margin: 16px 0;
 }
 .whiteline {
-  border-width: 2px;
+  /* border-width: 2px; */
   border-style: solid;
   border-color: #ffffff;
   margin: 14px auto;
@@ -123,14 +124,4 @@ li {
   font-weight: 300;
   font-size: 24px;
   line-height: 36px;
-}
-.vertical-line{
-  height: 256px;;
-  
- width:1px;
- 
- /* border-width:0; */
- /* color:#ffffff; */
- background-color:#ffffff;
- /* display: inline; */
 }
